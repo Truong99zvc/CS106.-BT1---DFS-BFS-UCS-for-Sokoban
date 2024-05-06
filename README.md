@@ -1,2 +1,2 @@
-# CS106. DFS-BFS-UCS-for-Sokoban
-Homework 1
+### How to run
+```python3 Sokoban.py```
